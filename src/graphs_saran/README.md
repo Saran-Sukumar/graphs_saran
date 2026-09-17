@@ -38,7 +38,7 @@ pip install .
 
 Or install directly from GitHub:
 
-pip install git+https://github.com/Saran-Sukumaran/graphs_saran.git
+pip install git+https://github.com/Saran-Sukumar/graphs_saran.git
 
 
 
